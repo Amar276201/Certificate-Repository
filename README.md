@@ -7,5 +7,5 @@ This repository serves as:
 - A source of inspiration for others on their learning journey.
 
 Feel free to connect with me via:
-- LinkedIn: [Amar Pratap Bhaskar] (www.linkedin.com/in/amarpratap-bhaskar-79232b159)
+- LinkedIn: Amar Pratap Bhaskar (www.linkedin.com/in/amarpratap-bhaskar-79232b159)
 - Email: amarbhaskar3@gmail.com
